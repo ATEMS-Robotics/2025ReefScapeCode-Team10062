@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "10.100.62.2",
+    "project": "Moist AHh Code (working to be fluid asf)"
+  }
+]
